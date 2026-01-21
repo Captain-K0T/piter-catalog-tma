@@ -1,0 +1,27 @@
+1:"$Sreact.fragment"
+2:I[1402,["177","static/chunks/app/layout-4f1f8459978f9b7e.js"],""]
+3:I[9766,[],""]
+4:I[8924,[],""]
+5:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","838","static/chunks/app/restaurant/%5Bid%5D/page-4f7ccdf5fa9c0213.js"],""]
+7:I[4431,[],"OutletBoundary"]
+9:I[5278,[],"AsyncMetadataOutlet"]
+b:I[4431,[],"ViewportBoundary"]
+d:I[4431,[],"MetadataBoundary"]
+e:"$Sreact.suspense"
+10:I[7150,[],""]
+:HL["/piter-catalog-tma/_next/static/media/165cd4a211bdcb42-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/piter-catalog-tma/_next/static/media/3b2357b09643eafd-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/piter-catalog-tma/_next/static/media/56e748dc30abd173-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/piter-catalog-tma/_next/static/media/9f0a0c474f8375fe-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/piter-catalog-tma/_next/static/media/a0ee14a49020d32f-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/piter-catalog-tma/_next/static/media/b13bb98cecf31cc0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/piter-catalog-tma/_next/static/media/b93d57822ca0e8f8-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/piter-catalog-tma/_next/static/media/dcc593aea1eca373-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/piter-catalog-tma/_next/static/css/93e0d293baa612ee.css","style"]
+0:{"P":null,"b":"6aMWLBZN12uBVygAO2GpI","p":"/piter-catalog-tma","c":["","restaurant","5339"],"i":false,"f":[[["",{"children":["restaurant",{"children":[["id","5339","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/piter-catalog-tma/_next/static/css/93e0d293baa612ee.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":[["$","head",null,{"children":["$","$L2",null,{"src":"https://telegram.org/js/telegram-web-app.js","strategy":"beforeInteractive"}]}],["$","body",null,{"className":"__className_cfc739","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"min-h-screen max-w-[480px] mx-auto bg-white flex flex-col items-center justify-center p-4","children":[["$","h1",null,{"className":"text-4xl font-bold text-gray-900 mb-4","children":"404"}],["$","p",null,{"className":"text-gray-600 mb-6","children":"Страница не найдена"}],["$","$L5",null,{"href":"/","className":"px-6 py-3 bg-[#EC5E54] text-white rounded-lg font-medium","children":"На главную"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":["restaurant",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["id","5339","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L6",null,["$","$L7",null,{"children":["$L8",["$","$L9",null,{"promise":"$@a"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lb",null,{"children":"$Lc"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$Ld",null,{"children":["$","div",null,{"hidden":true,"children":["$","$e",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+11:I[3215,["619","static/chunks/619-ba102abea3e3d0e4.js","838","static/chunks/app/restaurant/%5Bid%5D/page-4f7ccdf5fa9c0213.js"],"default"]
+6:["$","$L11",null,{"id":"5339"}]
+c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+8:null
+a:{"metadata":[["$","title","0",{"children":"Вкусный Питер"}],["$","meta","1",{"name":"description","content":"Лучшие рестораны Санкт-Петербурга"}]],"error":null,"digest":"$undefined"}
+f:"$a:metadata"
